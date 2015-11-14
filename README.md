@@ -11,9 +11,7 @@ Vive l'intelligence collaborative !
 
 
 ### Pourquoi github?
-Au même titre qu'un wiki, cette application permet de faire des **révisions avec validation du propriétaire** d'un document collaboratif.
-
-**NB** Pour suivre le projet et être notifié des mises à jour et interventions sur [le forum associé](https://github.com/sveinburne/lets-play-science/issues), cliquez sur le bouton `Watch` en haut à droite. 
+Au même titre qu'un wiki, cette application permet de faire des **révisions avec validation du propriétaire** d'un document collaboratif, cf le point suivant.  
 
 ### Sommaire
 
@@ -29,6 +27,7 @@ II. [Créer/Trouver une plateforme qui permettrait...](#II)
   5. [Une interface qui favorise l'évaluation entre pairs](#II.5)
   6. [S'inspirer de republique-numerique.fr](#II.6)
   7. [Organniser une comunauté qui prémache le filtrage](#II.7)
+  8. [Un forum base ?](#II.8)
 
 III. [Candidats possibles](#III)  
   1. [Discourse](#III.1)
@@ -207,6 +206,13 @@ Avec notamment :
 > Peut etre qu'un groupe de personnes plus ou moins en affinité avec la thématique de la question pourrait fouiller au fur et à mesure le fil des réponses et à partir de là éditer et remettre à jour en permanence une sorte de résumé des réponses des spectateurs. En les regroupant et classant par similarité, en prenant en compte leur récurrences et leur pertinence, ( et surement plein d'autres facteurs ) dans le but d'arriver à un schéma en ramifications. Il s'en dégagerait sûrement des axes principaux avec leur subdivision selon les variantes, et quelques pistes moins denses d'idées plus originales. Ce schéma, cet sorte "d'arbre scénaristique" serait accessible ( pas au tout début du sondage biensur, après un premier tri ) et remis à jour régulièment, ainsi les gens qui souhaitent répondre pourraient déjà voir comment s'organisent les idées autours du sujet et dans quelles branche ranger leur réponse, ou carrément en créer une nouvelle.
 - Les premiers à répondre ne bénéficieraient donc pas du classement des réponses et se lanceraient donc un peu à l'aveugle comme actuellement sur les commentaires youtube.
 - Cette organisation n'est pas du tout horizontale, voire même carrément pyramidale, et ça me chiffonne un peu ( voire déprime carrément ) de n'avoir que ça comme idée en tête à proposer comme réponse ! ^_^
+
+<a name="II.8"></a>
+#### **8** Un forum base ?
+
+> Que l'on passe par n'importe quelle plateforme de discussion, (tout ce qui est proposé ici notament, mais aussi des chatroom ou autre..) il serait bien d'avoir un "Forum base". J'entend par la un forum qui ne sert pas de lieu de discussion, mais juste de consultation. C'est a dire un forum ou n'importe qui peut venir voir ou en est la communauté pour une idée ou une autre. En gros le forum base c'est l'endroit ou chaque jour, la communauté post la synthèse des débats/idées du jour (et ce pour chaque sujet/sous-sujet/etc.). Avec ça on aurait une lisibilité au top, même pour quelqu'un qui débarque, en quelques clics (et minutes de lecture), il est au courant d'ou on en est pour un sujet précis. C'est un gain de temps énorme et surtout un bon moyen de triés nos idées très clairement, petit à petit et sans s'en rendre compte. Cela laisse aussi bien visible tout notre chemin de reflexion collective.
+Bien sur il faut que plusieurs personnes soit désignées "apte" a faire la synthèse et la posté sur le forum. Mais on peut être pas mal à s'en occuper (c'est pas bien compliqué donc bon).
+Enfin je pense que c'est une bonne idée, mais a vous de me le dire.
 
 <a name="III"></a>
 ## III. Candidats possibles
